@@ -8,4 +8,5 @@
       
   git clone ssh://git@ssh.github.com:443/shishimaruwo/test.git
   git push origin master
+  git commit -m '2nd commit' -a
 
